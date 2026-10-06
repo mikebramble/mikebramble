@@ -6,6 +6,7 @@
 
 📫 You can reach me at the contact info in my GitHub profile.
 
+🛠️ I also have a handful of website and app side-projects uploaded here that I am developing to replace beloved websites and services that have been ruined by capitalism.
 
 <!---
 mikebramble/mikebramble is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
